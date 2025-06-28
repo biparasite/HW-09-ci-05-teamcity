@@ -52,6 +52,7 @@ https://github.com/biparasite/example-teamcity.git
 ![VM](https://github.com/biparasite/HW-09-ci-05-teamcity/blob/main/VM.png "VM")
 ![ansible](https://github.com/biparasite/HW-09-ci-05-teamcity/blob/main/ansible.png "ansible")
 ![first_build](https://github.com/biparasite/HW-09-ci-05-teamcity/blob/main/first_build.png "first_build")
+![nexus](https://github.com/biparasite/HW-09-ci-05-teamcity/blob/main/first_build1.png "nexus")
 ![settings](https://github.com/biparasite/HW-09-ci-05-teamcity/blob/main/config.png "settings")
 ![nexus](https://github.com/biparasite/HW-09-ci-05-teamcity/blob/main/nexus.png "nexus")
 
